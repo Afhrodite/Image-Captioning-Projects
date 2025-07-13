@@ -168,4 +168,4 @@ It uses:
 This project was developed as part of the **IBM course: Building Generative AI-Powered Applications with Python**, provided on Coursera.
 
 Special thanks to:
-- **IBM Skills Network** for the project framework and Watson NLU access.
+- **IBM Skills Network** for the course materials and practical project framework.
