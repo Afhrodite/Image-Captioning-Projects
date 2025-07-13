@@ -1,0 +1,2 @@
+pixel_hedgehog.png: a pixel pixel with a face and a black background
+flower_heart.png: a pixel heart with pink flowers
